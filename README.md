@@ -37,5 +37,9 @@ As a result, the two ensemble models were not as good as the results. The subseq
 * The full code is uploaded on git-hub. 
 (https://github.com/bigshanedogg/kaggle_personalized_medicine/)
 
+* You can download raw data at kaggle competition page.
+(https://www.kaggle.com/c/msk-redefining-cancer-treatment/data)
+
+
 \* The update may be a little slow because of the difference between when the actual model was implemented and when the kernel was created.
 <br><br><br><br><br>
