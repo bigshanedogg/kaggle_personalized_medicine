@@ -34,10 +34,10 @@ As a result, the two ensemble models were not as good as the results. The subseq
 * This analysis can be seen more clearly on the following kaggle kernal page.
 (https://www.kaggle.com/bigshane/eda-for-prescription-text-analysis-and-xgboost)
 
-* The full code is uploaded on git-hub. 
+* The full code is uploaded on git-hub. <br>
 (https://github.com/bigshanedogg/kaggle_personalized_medicine/)
 
-* You can download raw data at kaggle competition page.
+* You can download raw data at kaggle competition page.<br>
 (https://www.kaggle.com/c/msk-redefining-cancer-treatment/data)
 
 
