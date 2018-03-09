@@ -31,7 +31,7 @@ As a result, the two ensemble models were not as good as the results. The subseq
 
 <br><hr><br>
 
-* This analysis can be seen more clearly on the following kaggle kernal page.
+* The full version of this analysis can be seen more clearly on the following kaggle kernal page.
 (https://www.kaggle.com/bigshane/eda-for-prescription-text-analysis-and-xgboost)
 
 * The full code is uploaded on git-hub. <br>
